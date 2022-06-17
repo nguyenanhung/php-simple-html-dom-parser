@@ -1,4 +1,4 @@
-php-simple-html-dom-parser
+# php-simple-html-dom-parser
 ==========================
 
 Version 1.5.2
@@ -17,11 +17,12 @@ http://simplehtmldom.sourceforge.net/
 Install
 -------
 
- composer.phar
+composer.phar
+
 ```json
 "require": {
-    "sunra/php-simple-html-dom-parser": "1.5.2"
-    }
+"sunra/php-simple-html-dom-parser": "1.5.2"
+}
 ```
 
 Usage
